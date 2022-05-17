@@ -1,2 +1,2 @@
-# Object-Localization-With-Tensorflow
-Coursera Guided Project Network : Object Localization with Tensorflow
+# Object Localization with Tensorflow 
+Coursera Guided Project Network : Object Localization with Tensorflow 
