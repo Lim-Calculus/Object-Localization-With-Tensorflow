@@ -8,3 +8,4 @@ This guided project employs TensorFlow's Keras API to train a convolutional neur
 2. Keras
 3. Machine Learning / Deep Learning
 4. Computer Vision
+5. IoU (Intersection of Union)
